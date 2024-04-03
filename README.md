@@ -13,7 +13,7 @@ This project introduces a compact CNC (Computer Numerical Control) pen plotter, 
 
 ## Project Components
 ### Block Diagram
-- [View Block Diagram](link_to_block_diagram_image)
+ ![alternate text](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/5ff8b1bfa2c1b6935ef51b514946bfb4d2da6c00/Output_Images/IMG_1.jpeg)
 
 ### Flow Diagram
 - [View Flow Diagram](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/e27706a47519bac1c78029162c5fcff8f6a3433b/Flow.jpg)

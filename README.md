@@ -16,19 +16,20 @@ This project introduces a compact CNC (Computer Numerical Control) pen plotter, 
 - [View Block Diagram](link_to_block_diagram_image)
 
 ### Flow Diagram
-- [View Flow Diagram](link_to_flow_diagram_image)
+- [View Flow Diagram](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/e27706a47519bac1c78029162c5fcff8f6a3433b/Flow.jpg)
 
 ## Demo
 Watch a demo of the project on [YouTube](https://www.youtube.com/watch?v=nTrbES8yj90).
 
 ## Circuit Diagram
-- [View Circuit Diagram]([link_to_circuit_diagram_image](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/7f1862b9628dab9de98360d710fd57cec46d351b/Circuit_Diagram/Circuit%20Diagram.jpeg))
+- [View Circuit Diagram](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/7f1862b9628dab9de98360d710fd57cec46d351b/Circuit_Diagram/Circuit%20Diagram.jpeg)
 
 ## Additional Resources
-- [GRBL Library GitHub](link_to_grbl_github)
-- [Universal G-Code Sender (UGS)](link_to_ugs)
-- [Inkscape Installer (.exe)](link_to_inkscape_installer)
-- [JSCUT](link_to_jscut)
+-[Report](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/e27706a47519bac1c78029162c5fcff8f6a3433b/Report.pdf)
+- [GRBL Library GitHub](https://github.com/TGit-Tech/GRBL-28byj-48)
+- [Universal G-Code Sender (UGS)](https://winder.github.io/ugs_website/download/)
+- [Inkscape Installer (.exe)](https://inkscape.org/release/1.0.2/windows/)
+- [JSCUT](https://jscut.org/)
 
 ## Note
 This project aims to provide an accessible and customizable solution for creating physical drawings from digital designs.

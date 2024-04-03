@@ -22,7 +22,7 @@ This project introduces a compact CNC (Computer Numerical Control) pen plotter, 
 Watch a demo of the project on [YouTube](https://www.youtube.com/watch?v=nTrbES8yj90).
 
 ## Circuit Diagram
-- [View Circuit Diagram](link_to_circuit_diagram_image)
+- [View Circuit Diagram]([link_to_circuit_diagram_image](https://github.com/Likithasowji-500k/CNC_pen_Plotter/blob/7f1862b9628dab9de98360d710fd57cec46d351b/Circuit_Diagram/Circuit%20Diagram.jpeg))
 
 ## Additional Resources
 - [GRBL Library GitHub](link_to_grbl_github)
